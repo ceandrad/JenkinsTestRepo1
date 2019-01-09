@@ -1,7 +1,7 @@
 public class HelloWorld {
 
 	public static void main(String[] param) {
-		for (int i = 0; i<=20; i++)
+		for (int i = 0; i<=30; i++)
 			System.out.println("Hello World ... "+i);
 	}
 	
